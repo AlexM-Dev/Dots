@@ -167,6 +167,11 @@
             0,
             0,
             0});
+            this.nudSpeed.Minimum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            -2147483648});
             this.nudSpeed.Name = "nudSpeed";
             this.nudSpeed.Size = new System.Drawing.Size(120, 23);
             this.nudSpeed.TabIndex = 11;
